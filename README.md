@@ -136,11 +136,6 @@ python src/tool_wear_prediction.py
 - Add real-time prediction capabilities
 - Investigate transfer learning from related domains
 
-## Course Information
-
-Developed as part of the **PRIME AI** course at EHU (University of the Basque Country).
-
-
 ## License
 
 This project is available for academic and educational purposes at the University of the Basque Country (EHU).
