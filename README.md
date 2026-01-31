@@ -88,7 +88,7 @@ tool-wear-prediction/
 ├── src/
 │   └── tool_wear_prediction.py
 ├── docs/
-│   └── report.pdf
+│   └── tool_wear_prediction_report.pdf
 └── data/
     └── README.md
 ```
